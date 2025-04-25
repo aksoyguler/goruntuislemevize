@@ -1,3 +1,6 @@
+Ad = Gülerhan Aksoy
+No = 2023688007
+
 🖐️ El Hareketi ile Ekran Parlakligi Kontrol Sistemi
 Bu Python projesi, kullanicinin isaret parmagiyla bas parmagi arasindaki mesafeyi algilayarak, ekranin parlakligini otomatik olarak ayarlar. Proje, MediaPipe kullanarak el tespiti yapar ve screen_brightness_control kutuphanesiyle parlaklik seviyesini degistirir.
 
